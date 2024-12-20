@@ -1,13 +1,13 @@
-### As-Salamu Alaykum, I'm Md. Mahfuzur Rahman - Software Engineer
+### As-Salamu Alaykum, I'm Md. Mostafizur Rahman - Software Engineer
 
 [![Linkedin](https://img.shields.io/badge/-mrjthedifferent-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mrjthedifferent)](https://www.linkedin.com/in/mrjthedifferent/)
 [![Twitter](https://img.shields.io/twitter/follow/mrjthedifferent?style=social)](https://www.twitter.com/mrjthedifferent/)
 
-I'm a simple person who love to code & I'd like to learn something new everyday. I'm a experienced mobile application developer who has skilled with work as a team. I've coherence to never quit something untill it is absolutely perfect.
+I'm a simple person who love to code & I'd like to learn something new everyday. As an app developer with a keen focus on mobile app development for both Android and iOS platforms, I bring a strong passion for creating unique and user- friendly applications. With over 4 years of experience in the field, I have had the opportunity to collaborate with domestic and international corporate clients as well as various governmental organizations. This diverse experience has equipped me with valuable insights and skills to deliver high-quality mobile solutions that meet the needs of users and businesses alike.
 
 - 🌱 On the way of learning Deep Learning.
 - 💬 Ask me about any tech related things.
-- 💌 Contact me at [mrj.cse15@gmail.com](mailto:mrj.cse15@gmail.com).
+- 💌 Contact me at [mrj.cse15@gmail.com](mailto:mostafizurrahman686413@gmail.com).
 
 Technologies I've been learning and using so far :
 - Programming languages :<br>
