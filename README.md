@@ -1,24 +1,39 @@
-<h1 align="center">Hi 👋, I'm Md Mostafizur Rahman</h1>
-<h3 align="center">As an app developer with a keen focus on mobile app development for both Android and iOS platforms, I bring a strong passion for creating unique and user- friendly applications. With over 4 years of experience in the field, I have had the opportunity to collaborate with domestic and international corporate clients as well as various governmental organizations. This diverse experience has equipped me with valuable insights and skills to deliver high-quality mobile solutions that meet the needs of users and businesses alike.</h3>
+### As-Salamu Alaykum, I'm Md. Mahfuzur Rahman - Software Engineer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![Linkedin](https://img.shields.io/badge/-mrjthedifferent-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mrjthedifferent)](https://www.linkedin.com/in/mrjthedifferent/)
+[![Twitter](https://img.shields.io/twitter/follow/mrjthedifferent?style=social)](https://www.twitter.com/mrjthedifferent/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+I'm a simple person who love to code & I'd like to learn something new everyday. I'm a experienced mobile application developer who has skilled with work as a team. I've coherence to never quit something untill it is absolutely perfect.
 
-<!--
-**nerob390/nerob390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 On the way of learning Deep Learning.
+- 💬 Ask me about any tech related things.
+- 💌 Contact me at [mrj.cse15@gmail.com](mailto:mrj.cse15@gmail.com).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies I've been learning and using so far :
+- Programming languages :<br>
+  [![JAVA](http://img.shields.io/badge/-JAVA-eee?style=flat-square&logo=java&logoColor=F05032)](#)
+  [![DART](http://img.shields.io/badge/-DART-eee?style=flat-square&logo=dart&logoColor=F05032)](#)
+  [![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python)](#)
+  [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php)](#)
+  [![CSharp](http://img.shields.io/badge/-CSharp-eee?style=flat-square&logo=CSharp&logoColor=F05032)](#)
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=F05032)](#)
+- Frontend : <br>
+  [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5)](#)
+  [![CSS3](http://img.shields.io/badge/-CSS3-eee?style=flat-square&logo=css3&logoColor=F05032)](#)
+  [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap)](#)  
+- Backend : <br>
+  [![Firebase](http://img.shields.io/badge/-Firebase-eee?style=flat-square&logo=firebase&logoColor=F05032)](#)
+  [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql)](#)
+  [![SQLite](http://img.shields.io/badge/-SQLite-eee?style=flat-square&logo=sqlite&logoColor=F05032)](#)
+- Frameworks : <br>
+  [![Flutter](http://img.shields.io/badge/-Flutter-eee?style=flat-square&logo=flutter&logoColor=F05032)](#)
+  [![Unity](http://img.shields.io/badge/-Unity-eee?style=flat-square&logo=unity&logoColor=F05032)](#)
+- IDE & Tools :<br>
+  [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git)](#)
+  [![AndroidStudio](http://img.shields.io/badge/-AndroidStudio-eee?style=flat-square&logo=androidStudio)](#)
+  [![VSCode](http://img.shields.io/badge/-VSCode-eee?style=flat-square&logo=visualStudio&logoColor=F05032)](#)
+  [![PhpStorm](http://img.shields.io/badge/-PhpStorm-eee?style=flat-square&logo=phpstorm&logoColor=F05032)](#)
+  [![AdobeXD](http://img.shields.io/badge/-AdobeXD-eee?style=flat-square&logo=adobe&logoColor=F05032)](#)
+  [![Figma](http://img.shields.io/badge/-Figma-eee?style=flat-square&logo=figma)](#)
+  
+More about me 👉 [mahfuz.click](https://mahfuz.click)
